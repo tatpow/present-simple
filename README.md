@@ -1,5 +1,12 @@
 <h1 align="center">Present Simple</h1>
 
+## Install / Установка
+
+| Agent / Агент | Command / Команда |
+| --- | --- |
+| Codex | `npx skills add tatpow/present-simple --skill present-simple -a codex -g` |
+| Claude Code | `npx skills add tatpow/present-simple --skill present-simple -a claude-code -g` |
+
 <p align="center"><strong>Slides for the room. A script for the speaker.</strong><br>
 Слайды для аудитории. Текст для выступающего.</p>
 
