@@ -1,0 +1,14 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Local installs and generated files
+node_modules/
+.agents/
+.codex/
+outputs/
+work/
